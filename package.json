@@ -1,0 +1,6 @@
+{
+  "name": "whatsapp-bot-sticker-creator",
+  "version": "5.2.0",
+  "description": "Whatsapp Bot - sticker creator",
+  "main": "index.js"
+}
